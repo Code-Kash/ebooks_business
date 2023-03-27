@@ -1,0 +1,9 @@
+fullbooks/*
+entities
+outlines/*
+*.pyc
+__pycache__
+.DS_Store
+.env
+!outlines/.gitkeep 
+!fullbooks/.gitkeep
